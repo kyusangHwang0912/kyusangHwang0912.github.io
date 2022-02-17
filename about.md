@@ -1,9 +1,8 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/me/me.png
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  데이터 분석을 통한 마케터를 꿈꾸고 있습니다.
 hide_description: true
 redirect_from:
   - /download/
