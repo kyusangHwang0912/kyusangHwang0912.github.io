@@ -6,7 +6,7 @@ layout: list
 title: Python
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: Python
+slug: python
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
