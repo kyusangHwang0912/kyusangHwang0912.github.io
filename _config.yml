@@ -51,11 +51,11 @@ menu:
   - title:             About
     url:               /about/
   - title:             SQL
-    url:               /SQL/
+    url:               /_featured_categories/SQL/
   - title:             Python
-    url:               /Python/
+    url:               /_featured_categories/Python/
   - title:             Project
-    url:               /Project/    
+    url:               /_featured_categories/Project/    
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
