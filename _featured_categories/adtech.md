@@ -5,7 +5,7 @@ slug: adtech
 menu: true
 submenu: true
 description: >
-  하위 메뉴 예시
+  adtech 관련 모든 것들
 ---
 
 # Subcat
