@@ -55,7 +55,14 @@ menu:
   - title:             Python
     url:               /python/
   - title:             Project
-    url:               /project/    
+    url:               /project/
+  - title:             Adtech
+    url:               /adtech/
+    submenu:
+      - title:         newsletter
+        url:           /newsletter/
+      - title:         test1
+        url:           /tes1/    
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
