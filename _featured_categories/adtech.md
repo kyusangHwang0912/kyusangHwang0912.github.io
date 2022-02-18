@@ -8,7 +8,7 @@ description: >
   adtech 관련 모든 것들
 ---
 
-# Subcat
+# Adtech
 
 ## 카테고리
 
