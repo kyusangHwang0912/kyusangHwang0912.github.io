@@ -97,7 +97,7 @@
   top:1px;
 }
 
-// 메뉴
+// 메뉴(커테고리)
 .spread-btn{
   right: 15%;
   position: absolute;
@@ -129,3 +129,8 @@
 .submenu.menu-wrapper.hide{
   display: none;
 }
+
+a.external::after {
+  display : none !important;
+}
+

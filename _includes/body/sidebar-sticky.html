@@ -1,7 +1,8 @@
 <div class="sidebar-sticky">
     <div class="sidebar-about" style="margin-bottom: 10px;">
-
-        <!--블로그타이틀-->
+        <!--블로그 조회수-->
+        <div style="text-align : center;">
+            <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkyusanghwang0912.github.io&count_bg=%23241F86&title_bg=%23D9E708&icon=symantec.svg&icon_color=%23E7E7E7&title=blog+%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false"/></a>        <!--블로그타이틀-->
         <div class="sidebartitle" style="margin-bottom: 95px;">
             <a class="sidebar-title" href="{{ '/' | relative_url }}">
                 <h2 class="h1">{{ site.short_title | default:site.title }}</h2>
@@ -16,7 +17,7 @@
 
         {% endif %}
     </div>
-    <!--블로그 조회수-->
+
     <nav class="sidebar-nav heading" role="navigation">
         {% include body/nav.html %}
     </nav>
