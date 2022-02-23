@@ -32,6 +32,7 @@ Github pages 블로그를 운영하는 중입니다.💻
     <div><img src= "/assets/img/me/me.png"></div>
 </div>
 
+
   <script>
     $(document).ready(function(){
       $('.me').slick();
@@ -39,3 +40,4 @@ Github pages 블로그를 운영하는 중입니다.💻
   </script>
 
 ---
+
