@@ -68,10 +68,8 @@ menu:
     submenu:
       - title:         newsletter
         url:           /newsletter/
-      - title:         test1
-        url:           /tes1/   
-  - title:             Example
-    url:               /example/
+      - title:         blog
+        url:           /blog/
  
 
 # Add links to the footer.

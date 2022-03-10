@@ -6,7 +6,9 @@ description: >
 sitemap: false
 categories:
   - sql
-  - sqlpractice 
+  - sqlpractice
+related_posts:
+  - _posts/sql/sqlgrammar/2022-02-21-01-SELECT,ORDER_BY.md  
 ---
 
 * toc

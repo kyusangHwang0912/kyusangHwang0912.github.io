@@ -4,7 +4,7 @@ category: etc
 bigtitle: newsletter
 slug: newsletter
 description: >
-  adtech 관련 경제신문 스크랩
+  디지털 마케팅 관련 기사 스크랩
 list: true
 order: 1
 ---

@@ -1,21 +1,19 @@
 ---
-# Featured tags need to have either the `list` or `grid` layout (PRO only).
-layout: list
-
-# The title of the tag's page.
-title: Python
-
-# The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: python
-
-# (Optional) Write a short (~150 characters) description of this featured tag.
+layout: about
+image: /assets/img/me/me.jpg
 description: >
-  Python을 공부합니다.
-
-# (Optional) You can disable grouping posts by date.
-# no_groups: true
-
-# Exclude this example category from the sitemap.
-# DON'T USE THIS SETTING IN YOUR CATEGORIES!
-sitemap: false
+  데이터 분석가 blog
+hide_description: True
 ---
+
+# Python
+
+<!--author-->
+
+<br>
+
+## python 활용 머신러닝 & 통계분석
+---
+python을 활용한 통계분석 및 머신러닝은 github에 정리해 두었습니다!💻
+
+관련 내용이 궁금하시다면 [github-adp](https://github.com/kyusangHwang0912/TIL/tree/master/ADP)를 확인해주시면 감사하겠습니다! 😃

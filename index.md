@@ -21,7 +21,7 @@ Github pages 블로그를 운영하는 중입니다.💻
 
 제 📚**관심분야**는 다음과 같습니다.
 
-> 📝 Machine Learning, Deep Learning
+> 📝 Data Analytics, Digital Marketing, Data Driven Marketing, Machine Learning
 
 저에게 조금 관심이 생기셨다면 [portfolio](/assets/portfoliot.pdf)를 확인해주시면 감사하겠습니다! 😃
 

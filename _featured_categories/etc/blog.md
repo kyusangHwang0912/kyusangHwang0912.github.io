@@ -1,10 +1,10 @@
 ---
 layout: list
 category: etc
-bigtitle: test1
-slug: test1
+bigtitle: blog
+slug: blog
 description: >
-  하위메뉴 테스트1
+  blog 관련 모든 것
 list: true
 order: 2
 ---
