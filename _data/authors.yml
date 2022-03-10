@@ -8,9 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    데이터 분석 마케터
+    데이터 분석가
 
-    Please check my [portfolio](/assets/portfolio_draft.pdf) to find out for more about me !
+    Please check my [portfolio](https://hkyu3.github.io/) to find out for more about me !
 
   # This photo will be used in the about section
   picture:
