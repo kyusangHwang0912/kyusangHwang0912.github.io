@@ -61,6 +61,8 @@ menu:
         url:           /sqlpractice/   
   - title:             Python
     url:               /python/
+  - title:             Tableau
+    url:               /tableau/
   - title:             etc
     url:               /etc/
     submenu:
