@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "집계함수 문제풀이"
+title: "집계함수"
 
 description: >
     Infrean 데이터 분석을 위한 중급 SQL 강의 복습 정리
@@ -17,6 +17,47 @@ categories:
 
 * toc
 {:toc .large-only}
+## COUNT
+
+추출되는 행의 개수
+
+- COUNT(*)
+  - NULL 포함
+
+- COUNT(COLUMN_NAME)
+  - NULL 제외
+
+- COUNT(DISTINCT COLUMN_NAME)
+  - NULL 제외 + 중복값 제외
+
+
+
+
+## SUM, AVG
+
+SUM:합계, AVG:평균
+
+- AVG(COLUMN_NAME)
+  - NULL 제외해서 평균
+- SUM(COLUMN_NAME)/COUNT(*)
+  - NULL 포함해서 평균(NULL을 0으로 본다)
+
+
+
+## MIN, MAX
+
+MIN: 최소값, MAX:최대값
+
+
+
+
+
+## 문제풀이
+
+
+
+
+
 - 01~04 사용 테이블 CITY
 
 ![image-20220404202121078](/assets/md-images/image-20220404202121078.png)
@@ -25,7 +66,7 @@ categories:
 
 
 
-## 01. Revising Aggregations - Averages
+#### 01. Revising Aggregations - Averages
 
 - Query the average population of all cities in **CITY** where *District* is **California**
 
@@ -40,7 +81,7 @@ WHERE DISTRICT = 'California';
 
 
 
-## 02. Revising Aggregations - The Sum Function
+#### 02. Revising Aggregations - The Sum Function
 
 - Query the total population of all cities in **CITY** where *District* is **California**.
 
@@ -55,7 +96,7 @@ WHERE DISTRICT = 'California';
 
 
 
-## 03. Revising Aggregations - The Count Function
+#### 03. Revising Aggregations - The Count Function
 
 - Query a *count* of the number of cities in **CITY** having a *Population* larger than 100,000.
 
@@ -71,7 +112,7 @@ WHERE POPULATION > 100000;
 
 
 
-## 03. Average Population
+#### 04. Average Population
 
 - Query the average population for all cities in **CITY**, rounded *down* to the nearest integer.
 
@@ -89,7 +130,7 @@ ROUND(숫자, 표현할 자리 수) -- 반올림
 
 
 
-## 04. Population Density Difference
+#### 05. Population Density Difference
 
 - Query the difference between the maximum and minimum populations in **CITY**.
 
@@ -103,7 +144,7 @@ FROM CITY;
 
 
 
-## 05. Weather Observation Station 4
+#### 06. Weather Observation Station 4
 
 ![image-20220404202715583](/assets/md-images/image-20220404202715583.png)
 

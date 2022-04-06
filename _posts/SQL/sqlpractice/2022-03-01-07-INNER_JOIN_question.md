@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "INNER JOIN 문제풀이"
+title: "INNER JOIN"
 description: >
     Infrean 데이터 분석을 위한 중급 SQL 강의 복습 정리
 sitemap: false
